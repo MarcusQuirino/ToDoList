@@ -6,3 +6,4 @@ todo list of projects I want to do
 - [ ] interpreter
 - [ ] compiler
 - [ ] web socket server
+- [ ] crypto trading bot
